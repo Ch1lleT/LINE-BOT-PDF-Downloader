@@ -1,0 +1,22 @@
+{
+  "name": "line_bot_pdf_downloader",
+  "version": "1.0.0",
+  "description": "Line bot for download pdf file in the group chat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ch1lleT/LINE-BOT-PDF-Downloader.git"
+  },
+  "author": "Ch1lleT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ch1lleT/LINE-BOT-PDF-Downloader/issues"
+  },
+  "homepage": "https://github.com/Ch1lleT/LINE-BOT-PDF-Downloader#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
