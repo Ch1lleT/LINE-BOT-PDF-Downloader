@@ -8,8 +8,6 @@ import { Readable } from 'node:stream'
 import { PDFDocument, rgb } from 'pdf-lib'
 import fontkit from '@pdf-lib/fontkit';
 import {readFileSync } from 'node:fs'
-import { dirname } from 'node:path'
-
 
 configDotenv()
 
